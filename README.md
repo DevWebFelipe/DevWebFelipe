@@ -1,4 +1,4 @@
-<h2>Olá, meu nome é Felipe Teixeira! 👋</h2>
+<h2>Olá, meu nome é Felipe Texeira! 👋</h2>
 
 - 👨🏻‍💻 Atualmente estou trabalhando com Delphi
 - 📚 Estou aprendendo programação Web (começando por HTLM5, CSS3, JavaScript e TypeScript)
