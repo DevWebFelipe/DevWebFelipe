@@ -5,7 +5,7 @@
 - 📚 Cursando Engenharia de Software
 - 📫 Você pode entrar em contato comigo através do meu e-mail development.felipe@gmail.com. Mas fique à vontade para me chamar em qualquer rede social
 - 💬 Se quiser fazer alguma pergunta sobre minha experiência com delphi, ou como está sendo estudar uma nova linguagem, fique a vontade
-- ⚡ Faz 3 anos que estudo Delphi, a 2 anos trabalho com Delphi e comecei a estudar linguagens Web em Julho de 2022
+- ⚡ Faz 4 anos que estudo Delphi, a 3 anos trabalho com Delphi e comecei a estudar linguagens Web em Julho de 2022
 
 <br/>
 
