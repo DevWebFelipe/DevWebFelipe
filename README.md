@@ -2,6 +2,7 @@
 
 - 👨🏻‍💻 Atualmente estou trabalhando com Delphi
 - 📚 Estou aprendendo programação Web (começando por HTLM5, CSS3, JavaScript e TypeScript)
+- 📚 Não estava nos planos para agora, mas como vai ser usado na faculdade, também comecei a estudar Python
 - 📚 Cursando Engenharia de Software
 - 📫 Você pode entrar em contato comigo através do meu e-mail development.felipe@gmail.com. Mas fique à vontade para me chamar em qualquer rede social
 - 💬 Se quiser fazer alguma pergunta sobre minha experiência com delphi, ou como está sendo estudar uma nova linguagem, fique a vontade
@@ -14,6 +15,7 @@
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
