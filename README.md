@@ -4,7 +4,7 @@
 - 📚 Estou aprendendo programação Web (começando por HTLM5, CSS3, JavaScript e TypeScript)
 - 📚 Não estava nos planos para agora, mas como vai ser usado na faculdade, também comecei a estudar Python
 - 📚 Cursando Engenharia de Software
-- 📫 Você pode entrar em contato comigo através do meu e-mail development.felipe@gmail.com. Mas fique à vontade para me chamar em qualquer rede social
+- 📫 Você pode entrar em contato comigo através do meu e-mail development.felipe@gmail.com / felipe.flptxr@gmail.com. Mas fique à vontade para me chamar em qualquer rede social
 - 💬 Se quiser fazer alguma pergunta sobre minha experiência com delphi, ou como está sendo estudar uma nova linguagem, fique a vontade
 - ⚡ Faz 4 anos que estudo Delphi, a 3 anos trabalho com Delphi e comecei a estudar linguagens Web em Julho de 2022
 
