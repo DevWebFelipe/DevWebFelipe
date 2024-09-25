@@ -36,3 +36,4 @@
   <img height="180rem" width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevWebFelipe&layout=compact&theme=tokyonight"/>
 </div>
 
+<a href="https://app.rocketseat.com.br/me/felipe-teixeira"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=felipe-teixeira&type=card" width="280" alt="Felipe Teixeira's Rocket ID"/></a>
