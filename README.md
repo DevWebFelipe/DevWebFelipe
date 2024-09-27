@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00bfbf"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+Teixeira+;I'm+29+years+old;I+am+from+Gravatal,+SC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Felipe+Teixeira+;Eu+tenho+29+anos+de+idade;Eu+sou+de+Gravatal,+SC;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
 
 <div align="center"> 
   
@@ -18,7 +18,7 @@
 - 📚 Estou aprendendo programação Web (começando por HTLM5, CSS3, Node.Js, JavaScript e TypeScript) <br/>
 - 📫 Você pode entrar em contato comigo através do meu e-mail development.felipe@gmail.com / felipe.flptxr@gmail.com. Mas fique à vontade para me chamar em qualquer rede social <br/>
 - 💬 Se quiser fazer alguma pergunta sobre minha experiência com delphi, ou como está sendo estudar uma nova linguagem, fique a vontade <br/>
-- ⚡ Trabalho com Delphi desde 2020, a partir de 2022 comecei a estudar linguagens Web <br/>
+- ⚡ Trabalho com Delphi desde 2020, desde de 2022 comecei a estudar linguagens Web <br/>
 </div>
 
 
@@ -47,7 +47,7 @@
 
 </br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevWebFelipe&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevWebFelipe&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
 
 <div align="center" >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevWebFelipe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Teixeira github stats" /> 
