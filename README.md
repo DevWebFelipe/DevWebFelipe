@@ -21,6 +21,13 @@
 - ⚡ Trabalho com Delphi desde 2020, desde de 2022 comecei a estudar linguagens Web <br/>
 </div>
 
+<div align="center"> 
+  <h2>Sites criados</h2>
+  <a href="https://landingpagejavascript.netlify.app/" target="_blank">Landipage com JS</a> <br/>
+  <a href="https://devfelipe.netlify.app/" target="_blank">Biografia com tecnologias/projetos</a> <br/>
+  <a href="https://tributogot.netlify.app/" target="_blank">Tributo a Game Of Thrones</a>
+</div>
+
 
 <br/>
 
