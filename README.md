@@ -22,7 +22,7 @@
 </div>
 
 <div align="center"> 
-  <h2>Sites criados</h2>
+  <h3>Sites criados</h3>
   <a href="https://landingpagejavascript.netlify.app/" target="_blank">Landipage com JS</a> <br/>
   <a href="https://devfelipe.netlify.app/" target="_blank">Biografia com tecnologias/projetos</a> <br/>
   <a href="https://tributogot.netlify.app/" target="_blank">Tributo a Game Of Thrones</a>
