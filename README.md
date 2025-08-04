@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, eu sou o Felipe Teixeira</h1>
+<h1 align="center">👋 Olá, eu sou o Felipe Texeira</h1>
 <p align="center">Desenvolvedor, apaixonado por transformar ideias em interfaces funcionais e responsivas.</p>
 
 <p align="center">
-  <a href="https://devfelipe.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-Online-blueviolet?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://devwebfelipe.github.io/PortifolioDev/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-Online-blueviolet?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.linkedin.com/in/felipe-teixeira-460464110/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Felipe%20Teixeira-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:felipe.flptxr@gmail.com"><img src="https://img.shields.io/badge/Email-felipe.flptxr%40gmail.com-yellowgreen?style=for-the-badge&logo=gmail" /></a>
 </p>
